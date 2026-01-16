@@ -32,18 +32,20 @@ This project simulates core ATS behavior by:
 ---
 
 ## 🧱 Project Structure
+```txt
 ATS-SCORE-ANALYZER/
-
 │
-├── app.py # Streamlit frontend (UI)
-├── ats_engine.py # Core ATS logic
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── app.py                 # Streamlit frontend (UI)
+├── ats_engine.py          # Core ATS logic
+├── requirements.txt       # Python dependencies
+├── README.md              # Project documentation
 ├── sample/
-│ ├── resume_sample.pdf
-│ └── job_description.txt
+│   ├── resume_sample.pdf
+│   └── job_description.txt
 │
 └── .gitignore
+```
+
 
 
 ---
