@@ -31,10 +31,12 @@ This project simulates core ATS behavior by:
 
 ---
 
-## 🧱 Project Structure
+### 📁 Project Structure
+
+The overall repository structure looks like this:
+
 ```txt
 ATS-SCORE-ANALYZER/
-│
 ├── app.py                 # Streamlit frontend (UI)
 ├── ats_engine.py          # Core ATS logic
 ├── requirements.txt       # Python dependencies
@@ -42,9 +44,9 @@ ATS-SCORE-ANALYZER/
 ├── sample/
 │   ├── resume_sample.pdf
 │   └── job_description.txt
-│
 └── .gitignore
 ```
+
 
 
 
