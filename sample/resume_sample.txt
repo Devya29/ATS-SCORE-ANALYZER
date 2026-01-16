@@ -1,0 +1,25 @@
+John Doe
+Email: johndoe@gmail.com
+GitHub: github.com/johndoe
+
+SUMMARY
+Computer Science student with strong interest in software development and problem solving.
+Experienced in Python programming and data structures.
+
+SKILLS
+Programming Languages: Python, Java
+Databases: MySQL, MongoDB
+Tools: Git, GitHub
+
+CORE CONCEPTS
+Data Structures and Algorithms
+Problem Solving
+Basic AI concepts
+
+PROJECTS
+Student Management System
+Built using Python and SQL to manage student records.
+
+EXPERIENCE
+Software Development Practice
+Worked on Python projects and improved problem-solving skills.
