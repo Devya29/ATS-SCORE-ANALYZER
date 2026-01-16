@@ -32,4 +32,45 @@ This project simulates core ATS behavior by:
 ---
 
 ## 🧱 Project Structure
+ATS-SCORE-ANALYZER/
+│
+├── app.py # Streamlit frontend (UI)
+├── ats_engine.py # Core ATS logic
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── sample/
+│ ├── resume_sample.pdf
+│ └── job_description.txt
+│
+└── .gitignore
+
+
+---
+
+## ⚙️ How the System Works
+
+1. Extracts raw text from resume PDF
+2. Cleans and tokenizes noisy text
+3. Dynamically splits merged skill words
+4. Normalizes skill variations into canonical forms
+5. Matches resume skills against job description
+6. Computes a weighted ATS score
+7. Generates resume improvement suggestions
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Streamlit**
+- **pdfplumber**
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/ATS-SCORE-ANALYZER.git
+cd ATS-SCORE-ANALYZER
 
