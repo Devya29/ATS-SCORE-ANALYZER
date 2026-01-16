@@ -1,0 +1,4 @@
+We are looking for a Python intern with strong problem-solving skills.
+The candidate should have knowledge of data structures, algorithms, and basic AI concepts.
+Experience with Git and Python projects is a plus.
+Experience with SQL and MongoDB is required.
