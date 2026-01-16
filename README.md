@@ -33,6 +33,7 @@ This project simulates core ATS behavior by:
 
 ## 🧱 Project Structure
 ATS-SCORE-ANALYZER/
+
 │
 ├── app.py # Streamlit frontend (UI)
 ├── ats_engine.py # Core ATS logic
