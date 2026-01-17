@@ -6,14 +6,14 @@ import pdfplumber
 STOPWORDS = {
     "and", "or", "the", "is", "are", "a", "an", "to", "for",
     "with", "of", "in", "on", "we", "i", "you", "it", "this",
-    "that", "as", "by", "from", "at"
+    "that", "as", "by", "from", "at","good","have","reponsibility"
 }
 
 SKILLS = {
     "python", "c++", "java", "sql", "git",
     "data", "structures", "algorithms",
     "ai", "machine", "learning", "ml",
-    "problem", "problemsolving", "mongo"
+    "problem", "problemsolving", "mongo","web development", "html", "css", "javascript", "frontend", "responsive design"
 }
 
 WEIGHTS = {
@@ -34,7 +34,11 @@ SKILL_MAP = {
     "mongodb": "mongo",
     "mongoose": "mongo",
     "problem": "problemsolving",
-    "solving": "problemsolving"
+    "solving": "problemsolving",
+    "webdev": "webdevelopment",
+    "web-dev": "web development",
+    "js":"javascript",
+    "front-end":"frontend"
 }
 
 # -------------------- PDF UTILS --------------------
